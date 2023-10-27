@@ -28,7 +28,7 @@ A tensorflow/keras implementation of a facial emotion recognition model based on
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/MahmoudSabra1/Facial-emotion-recognition
+git clone 
 ```
 2. Install required packages
   * Use [anaconda](https://www.anaconda.com/) to easily install keras and tensorflow in addition to necessary cuda drivers to run the model on GPU.
